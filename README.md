@@ -1,5 +1,6 @@
 # ShadowsocksN
 SSN - ShadowsocksNext
 
-![ShadowsocksN](https://raw.githubusercontent.com/xaray/ShadowsocksN/master/qrpic.jpg)
+<img src="https://raw.githubusercontent.com/xaray/ShadowsocksN/master/qrpic.jpg" width="50%"/>
+
 Telegram：https://t.me/ShadowsocksN
